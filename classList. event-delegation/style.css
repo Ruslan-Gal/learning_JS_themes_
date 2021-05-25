@@ -1,0 +1,17 @@
+button {
+    width: 80px;
+    height: 40px;
+    background-color: #ff0;
+}
+
+.btn-block {
+    background-color: rgb(126, 114, 114);
+}
+
+button.blue {
+    background-color: #00f;
+}
+
+button.red {
+    background-color: #f00;
+}
